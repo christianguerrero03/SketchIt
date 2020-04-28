@@ -10,10 +10,7 @@ import Foundation
 import Combine
 import SwiftUI
 
-// *** INSERT RED CORVUS API KEY ***
-//let API_KEY = ""
-// remove old key:
-let API_KEY = "AIzaSyDH4L8pPZ0Dm9TOa4sbpknN5Ca_U407DS4"
+let API_KEY = "AIzaSyC7okb8_UuE6vncM8fRRPOFuuXy4qgUudc"
 var tutorialData: YTResponse?
 var favoriteData: [String:Bool] = [:]
 
